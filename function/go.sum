@@ -1,0 +1,6 @@
+github.com/a-h/awsapigatewayv2handler v0.0.0-20220723235946-c45b98eb1b9e h1:HzXuiorRJtdTDWmI/DS/IRpwx9LvI/XhinY8iFwSDlY=
+github.com/a-h/awsapigatewayv2handler v0.0.0-20220723235946-c45b98eb1b9e/go.mod h1:JniHYfJXJDrzaIShRJC0yhUvtuKM0NfGkH1f3mDk67k=
+github.com/aws/aws-lambda-go v1.36.0 h1:NWBWBJgavrQOjF1uKDG5D7Qs5y5o75HcrjfA16Hwfak=
+github.com/aws/aws-lambda-go v1.36.0/go.mod h1:jwFe2KmMsHmffA1X2R09hH6lFzJQxzI8qK17ewzbQMM=
+github.com/mattn/go-sqlite3 v1.14.16 h1:yOQRA0RpS5PFz/oikGwBEqvAWhWg5ufRz4ETLjwpU1Y=
+github.com/mattn/go-sqlite3 v1.14.16/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
